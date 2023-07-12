@@ -1,7 +1,7 @@
 Greetings! I'm Dhruv Patel, a passionate and innovative developer with a knack for creating immersive web experiences👋
 
 # 💫 Professional Summary:
-Solution-oriented backend developer with a year of experience and a strong mathematical background. Recently delved into web3 development, gaining proficiency in Solana through Nas Academy. Python is my go-to language for crafting efficient solutions. I thrive on tackling new challenges and delivering results.
+Solution-oriented backend developer with a year of experience and a strong mathematical background. Recently delved into web3 development, gaining proficiency in Solana through Nas Academy. Python is my go-to language for crafting efficient solutions. I thrive on tackling new challenges and delivering results. I am currently working on backend development in Python with MySQL on a Linux environment.
 
 
 ## 🌐 To reach me:
