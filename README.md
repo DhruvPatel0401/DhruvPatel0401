@@ -1,5 +1,3 @@
-Greetings! I'm Dhruv Patel, a passionate and innovative developer with a knack for creating immersive web experiences👋
-
 # 💫 The Chronicles of Dhruv Patel:
 I am the chosen one, a backend developer blessed with an otherworldly year of experience and a mind shaped by the mysteries of mathematics. But that's not all! I've embarked on a thrilling expedition into the realms of web3 development, honing my skills in the arcane arts of Solana through the prestigious Nas Academy. Python, the language of wizards, is my trusty wand for crafting elegant and efficient solutions. I'm a fearless explorer of uncharted territories, always seeking new challenges to conquer and delivering mind-boggling results. Currently, I wield my programming powers in the realm of backend development with Python and MySQL, thriving in the mystical land of Linux.
 
