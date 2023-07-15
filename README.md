@@ -3,7 +3,7 @@ I am the chosen one, a backend developer blessed with an otherworldly year of ex
 
 
 ## 🌐 The Path to Reach Me:
-<a href="mailto:pateldhruv130401@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> <a href="https://www.linkedin.com/in/dhruvpatel0401/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a> <a href="https://leetcode.com/Encoder_007"><img src="https://img.icons8.com/color/96/000000/leetcode.png" alt="leetcode"/></a> <a href="https://www.instagram.com/dhruv.__.0401"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> <a href="https://twitter.com/Encoder_17"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> 
+<a href="mailto:pateldhruv130401@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> <a href="https://www.linkedin.com/in/dhruvpatel0401/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a> <a href="https://leetcode.com/Encoder_007"><img src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="leetcode"/></a> <a href="https://www.instagram.com/dhruv.__.0401"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a> <a href="https://twitter.com/Encoder_17"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> 
 
  
 # 💻 The Arcane Tech Stack:
