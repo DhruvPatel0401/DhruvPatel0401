@@ -22,5 +22,4 @@ Dive into the epic tales of my top contributed repositories:<br>
 ![](https://github-contributor-stats.vercel.app/api?username=DhruvPatel0401&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhruvPatel0401&icon=5&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=DhruvPatel0401&style=plastic&label=PROFILE+VIEWS)
