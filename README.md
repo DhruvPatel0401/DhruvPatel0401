@@ -1,5 +1,5 @@
 # 💫 The Chronicles of Dhruv Patel:
-I am the chosen one, a backend developer blessed with an otherworldly year of experience and a mind shaped by the mysteries of mathematics. Python, the language of wizards, is my trusty wand for crafting elegant and efficient solutions. I'm a fearless explorer of uncharted territories, always seeking new challenges to conquer and delivering mind-boggling results. Currently, I wield my programming powers in the realm of backend development with Python and MySQL, thriving in the mystical land of Linux.
+I am the chosen one, a backend developer blessed with an otherworldly year of experience and a mind shaped by the mysteries of mathematics. Python, the language of wizards, is my trusty wand for crafting elegant and efficient solutions. I'm always seeking new challenges to conquer and delivering mind-boggling results. Currently, I wield my programming powers in the realm of backend development with Python and MySQL, thriving in the mystical land of Linux.
 
 
 ## 🌐 The Path to Reach Me:
