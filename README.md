@@ -18,6 +18,7 @@ Behold the arsenal of technologies I wield, each imbued with its own unique powe
   - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   - ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C244.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  - ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
 - **Databases**:
   - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
