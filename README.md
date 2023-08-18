@@ -7,7 +7,7 @@ I am the chosen one, a backend developer blessed with an otherworldly year of ex
 
  
 # 💻 The Arcane Tech Stack:
-Behold the arsenal of technologies I wield, each imbued with its own unique power: <br>
+Behold the arsenal of technologies I wield, each imbued with its own unique power:<br>
 - **Languages**: 
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
