@@ -3,7 +3,7 @@ I am the chosen one, a backend developer blessed with an otherworldly year of ex
 
 
 ## 🌐 The Path to Reach Me:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:pateldhruv130401@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhruvpatel0401/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Encoder_007)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:pateldhruv130401@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhruvpatel0401/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)]((https://leetcode.com/u/dhruvpatel0401/))
 
  
 # 💻 The Arcane Tech Stack:
