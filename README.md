@@ -63,10 +63,10 @@ Here's a snapshot of the technologies I work with:<br><br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![IBM Mainframe](https://img.shields.io/badge/IBM%20Mainframe-%23006699.svg?style=for-the-badge&logo=ibm&logoColor=white) ---
+![IBM Mainframe](https://img.shields.io/badge/IBM%20Mainframe-%23006699.svg?style=for-the-badge&logo=ibm&logoColor=white)
 <br>
 
-
+---
 
 # 📊 The GitHub Chronicles:
 Witness the legends etched in the annals of my GitHub kingdom:<br>
