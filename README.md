@@ -18,7 +18,7 @@ Currently **seeking full-time opportunities in Toronto** in roles like Data Engi
 ---
 
 ## 💻 Tech Stack & Tools
-Here's a snapshot of the technologies I work with:<br>
+Here's a snapshot of the technologies I work with:<br><br>
 **Languages:** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,20 +34,22 @@ Here's a snapshot of the technologies I work with:<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C244.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<br>
+<br><br>
 **Databases:** <br>
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![AzureSQLDatabase](https://img.shields.io/badge/Azure%20SQL%20Database-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWSNeptune](https://img.shields.io/badge/AWS%20Neptune-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) **Data Engineering & AI/ML:** <br>
-<br>
+<br><br>
 **Tools & Technologies** <br>
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-%234299E1.svg?style=for-the-badge&logo=linux-foundation&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20(GPT/Gemini)-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white) **Cloud & DevOps Tools:** <br>
+![LLMs](https://img.shields.io/badge/LLMs%20(GPT/Gemini)-%2374AA9C.svg?style=for-the-badge&logo=openai&logoColor=white) 
+<br><br>
+**Cloud & DevOps Tools:** <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,13 +58,13 @@ Here's a snapshot of the technologies I work with:<br>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-<br>
+<br><br>
 **Operating Systems:** <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![IBM Mainframe](https://img.shields.io/badge/IBM%20Mainframe-%23006699.svg?style=for-the-badge&logo=ibm&logoColor=white) ---
-
+<br>
 
 
 
