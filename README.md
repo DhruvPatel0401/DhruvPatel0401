@@ -1,13 +1,24 @@
-# 💫 The Chronicles of Dhruv Patel:
-I am the chosen one, a backend developer blessed with an otherworldly year of experience and a mind shaped by the mysteries of mathematics. Python, the language of wizards, is my trusty wand for crafting elegant and efficient solutions. I'm always seeking new challenges to conquer and delivering mind-boggling results. Currently, I wield my programming powers in the realm of backend development with Python and MySQL, thriving in the mystical land of Linux.
+# Hi there 👋, I'm Dhruv Patel!
 
+I'm a recent **Master of Applied Computing** graduate from the University of Windsor, passionate about building robust, scalable, and intelligent solutions at the intersection of **Software Engineering**, **Data Engineering**, **AI/ML**, and **Cloud Computing**.
 
-## 🌐 The Path to Reach Me:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:pateldhruv130401@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhruvpatel0401/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)]((https://leetcode.com/u/dhruvpatel0401/))
+With hands-on experience developing data pipelines (Airflow, Databricks), engineering LLM-driven applications (ASRG), deploying full-stack systems (Python/Django/React), architecting cloud infrastructure (AWS/Azure), and contributing to backend development (.NET/C#), I thrive on tackling complex technical challenges.
 
- 
-# 💻 The Arcane Tech Stack:
-Behold the arsenal of technologies I wield, each imbued with its own unique power:<br>
+Currently **seeking full-time opportunities in Toronto** in roles like Data Engineer, Software Engineer, AI/ML Engineer, or Cloud Engineer. Let's connect!
+
+---
+
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pateldhruv130401@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhruvpatel0401/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvPatel0401)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dhruvpatel0401/)
+
+---
+
+## 💻 Tech Stack & Tools
+Here's a snapshot of the technologies I work with:
 - **Languages**: 
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
