@@ -27,7 +27,9 @@ Here's a snapshot of the technologies I work with:<br><br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-%23005CA5.svg?style=for-the-badge&logo=ibm&logoColor=white) **Frontend & Backend:** <br>
+![COBOL](https://img.shields.io/badge/COBOL-%23005CA5.svg?style=for-the-badge&logo=ibm&logoColor=white) 
+<br><br>
+**Frontend & Backend:** <br>
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,9 +42,9 @@ Here's a snapshot of the technologies I work with:<br><br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![AzureSQLDatabase](https://img.shields.io/badge/Azure%20SQL%20Database-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AWSNeptune](https://img.shields.io/badge/AWS%20Neptune-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) **Data Engineering & AI/ML:** <br>
+![AWSNeptune](https://img.shields.io/badge/AWS%20Neptune-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 <br><br>
-**Tools & Technologies** <br>
+**Data Engineering & AI/ML:** <br>
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
